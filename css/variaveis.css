@@ -1,0 +1,20 @@
+:root{
+    --background-color: hsl(185, 75%, 39%);
+
+    --text-color: hsl(227, 10%, 30%);
+
+    --card-color: hsl(0, 0%, 65%);
+
+    .arsenal-sc-regular {
+        font-family: "Arsenal SC", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .arsenal-sc-bold {
+        font-family: "Arsenal SC", serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+}
+
