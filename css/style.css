@@ -71,5 +71,19 @@ hr{
 }
 
 @media (max-width: 576px){
+    .cartao{
+        width: 400px;
+    height: 500px;
+    }
+
+    .numeros-de-perfil{
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .logos{
+        justify-content: flex-end;
+        flex-direction: column;
+    }
 
 }
